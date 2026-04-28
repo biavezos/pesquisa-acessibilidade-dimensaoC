@@ -1,0 +1,68 @@
+Pesquisas mais gerais sobre o conteúdo e pessoas com deficiência.
+
+O Brasil possui cerca de 14,4 milhões de pessoas com deficiência (7,3% da população com 2 anos ou mais) 
+
+O número de empresas paulistas que deixaram de cumprir a norma que obriga a inclusão de profissionais 
+com deficiência no quadro funcional em 2019, chega a 82,4%, revela estudo desenvolvido pelo Centro de Estudos Sindicais e 
+Economia do Trabalho do Instituto de Economia da Universidade Estadual de Campinas (Unicamp). Segundo o estudo, entre 11.751 
+empresas paulistas, com matrizes no estado de São Paulo e filiais em diversas localidades do país, sob o mesmo CNPJ, 
+apenas 2.067 (17,6%) estavam cumprindo a cota naquele ano. 
+
+Proteger-se legalmente em acessibilidade digital no Brasil significa, fundamentalmente, cumprir a Lei Brasileira de Inclusão 
+(LBI - Lei nº 13.146/2015), que torna obrigatória a acessibilidade em sites e aplicativos de empresas com sede ou representação no país.
+ O não cumprimento pode resultar em multas severas e processos judiciais.
+
+MULTA - O descumprimento da Lei de Cotas PCD (Lei nº 8.213/91) gera multas administrativas elevadas para empresas, 
+com valores atualizados em 2025 variando de R$3.368,43 a R$ 336.841,70 por vaga não preenchida, dependendo da gravidade e reincidência. 
+A fiscalização é realizada pelo Ministério do Trabalho, e a cota varia de 2% a 5% conforme o total de funcionários. 
+
+
+
+PESQUISAS Sobre como os desenvolvedores podem se proteger legalmente
+
+
+1. Adote Normas Técnicas Internacionais e Nacionais
+
+WCAG (Web Content Accessibility Guidelines): Siga as diretrizes do W3C. A LBI exige que sites sigam padrões 
+internacionais de acessibilidade.
+
+ABNT NBR 17225: Utilize a nova norma brasileira de acessibilidade na web, lançada em março de 2025, que define diretrizes 
+essenciais para o mercado nacional.
+
+eMAG (Modelo de Acessibilidade em Governo Eletrônico): Essencial para sites públicos, mas serve como excelente guia de boas 
+práticas para o setor privado.
+
+
+
+2. Implemente Melhorias Estruturais e de Conteúdo
+
+A acessibilidade deve cobrir design, conteúdo e desenvolvimento (perceptível, operável, compreensível e robusto): 
+
+Texto Alternativo (Alt Text): Descreva todas as imagens para usuários de leitores de tela. - <img src="imagem.jpg" 
+alt="Descrição detalhada da imagem para acessibilidade">
+
+Legendas e Transcrições: Ofereça legendas em vídeos e transcrições para áudios, incluindo Libras.
+
+Navegação por Teclado: Garanta que todo o site possa ser navegado sem mouse.
+
+Contraste e Fontes: Utilize alto contraste e fontes legíveis para pessoas com baixa visão.
+
+Estrutura HTML Semântica: Facilite a interpretação por tecnologias assistivas.
+
+
+
+3. Ações de Gestão e Mitigação de Risco
+
+Auditorias Periódicas: Realize testes automatizados e manuais com usuários com deficiência para garantir que o 
+site continue acessível após atualizações.
+
+Declaração de Acessibilidade: Publique uma página no site afirmando o compromisso com a acessibilidade e fornecendo 
+um canal para feedback e denúncia de barreiras.
+
+Treinamento de Equipe: Eduque desenvolvedores, designers e criadores de conteúdo sobre acessibilidade.
+
+fontes:
+https://agenciabrasil.ebc.com.br/economia/noticia/2022-10/estudo-mostra-descumprimento-da-lei-de-cotas-em-empresas-paulistas#:~
+:text=Algumas%20empresas%20contratam%2C%20mas%20n%C3%A3o%20preenchem%20a,mas%20h%C3%A1%20disponibilidade%20de%20pessoas%2C%20diz%2
+0pesquisadora.
+https://www.virtualvision.com.br/blog/legislacao-acessibilidade-digital/
