@@ -7,7 +7,7 @@ Em termos de obrigatoriedade, o e-MAG é mandatório para todos os órgãos da A
 
 Para viabilizar a aplicação dessas normas, o governo desenvolveu o ASES (Avaliador e Simulador de Acessibilidade em Sítios). Essa ferramenta permite que desenvolvedores e gestores realizem auditorias automáticas nos portais, identificando falhas de marcação e conteúdo de acordo com as regras do e-MAG. Embora a automação seja crucial para padronização, o modelo enfatiza que a experiência final deve ser validade por usuários reais para garantir a eficácia plena das diretrizes adaptadas do padrão internacional WCAG (Diretrizes de Acessibilidade para Conteúdo Web)
 
-FONTES:
+Fontes:
 https://emag.governoeletronico.gov.br/
 https://emag.governoeletronico.gov.br/padroes-0034.php
 https://emag.governoeletronico.gov.br/padroes-0031.php
